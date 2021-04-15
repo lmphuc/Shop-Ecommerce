@@ -1,0 +1,18 @@
+[
+    {
+        "name":"MacBook Pro 13 inch",
+        "price":"2000",
+        "description":"Apple Macbook Pro 13 Inch 2021",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/123",
+            "url":"https://macbook.haloshop.vn/image/cache/data/products/apple/macbook/macbook-pro-2020-13-inch-chip-m1-gray-00-1400x1400.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Ebay",
+        "stock":20,
+        "numOfReviews": 32,
+        "reviews":[]
+
+    }
+]
