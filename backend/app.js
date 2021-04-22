@@ -20,6 +20,7 @@ const products= require('./routes/product');
 const auth= require('./routes/auth');
 const order = require('./routes/order');
 
+//dotenv.config({ path: 'backend/config/config.env' })
 if (process.env.NODE_ENV !== 'PRODUCTION') require('dotenv').config({ path: 'backend/config/config.env' })
 
 app.use('/api/v1',products)
